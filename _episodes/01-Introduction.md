@@ -30,7 +30,7 @@ LIVIVO uses an index-based search engine featuring specially developed search te
   - Start by going to the [LIVIVO Main Page](https://www.livivo.de/app) by typing "www.livivo.de" into your browser. 
   - This is what you should see:
 
-![LIVIVO_Main_Page](../fig/LIVIVO_Main_Page.png)
+![LIVIVO_Main_Page](../fig/vollbart.jpg)
 
 First thing you can do is switch between the german and english interface by clicking "zur deutschen Oberfläche" or "switch to English language". To the right of the language setting we see the login function of LIVIVO. We will come back to this later when we create an account.  
 At the bottom of the page we see a Word Cloud, which is built from the most searched terms. In addition, LIVIVO points us to a special LIVIVO COVID-19 collection that we can search alongside the overall LIVIVO collection.  
