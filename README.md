@@ -1,7 +1,6 @@
-# Maintainers - LIVIVO Workshop
+# Maintainers - Testworkshop
 
-- [Konrad Förstner](https://github.com/konrad)
-- [Rabea Müller](https://github.com/RabeaMue)  
+- [Hermann Schranzhofer](https://github.com/schranzhofer) 
 
 ## Based on Library Carpentry
 
